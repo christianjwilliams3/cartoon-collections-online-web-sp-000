@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
-  array 
+  
 end
   
 end
