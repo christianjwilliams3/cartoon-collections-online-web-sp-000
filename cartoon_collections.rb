@@ -19,3 +19,5 @@ def long_planeteer_calls(long_planteer_calls)
   end 
   answer
 end
+
+def find_the_cheese()
