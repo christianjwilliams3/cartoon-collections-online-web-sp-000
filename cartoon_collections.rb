@@ -4,7 +4,7 @@ puts "#{index + 1} #{name}"
 end
 end
   
- def summon_captain_planet(elemtents)
-   elements.collect do |call|
+ def summon_captain_planet(veggies)
+   veggies.collect do |call|
      call.capitalize + "!"
  end
