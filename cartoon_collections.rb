@@ -5,4 +5,4 @@ end
 end
   
  def summon_captain_planet(elemtents)
-   
+   elements.do
