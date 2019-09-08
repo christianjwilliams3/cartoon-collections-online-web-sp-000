@@ -5,4 +5,5 @@ end
 end
   
  def summon_captain_planet(elemtents)
-   elements.collect do |
+   elements.collect do |call|
+     
