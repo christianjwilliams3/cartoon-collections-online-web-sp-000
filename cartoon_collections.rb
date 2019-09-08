@@ -9,3 +9,5 @@ end
      call.capitalize + "!"
  end
 end
+
+def long_planeteer_calls
