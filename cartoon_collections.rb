@@ -1,5 +1,5 @@
-def roll_call_dwarves(array)
-  
+def roll_call_dwarves(name)
+  puts name
 end
   
 end
