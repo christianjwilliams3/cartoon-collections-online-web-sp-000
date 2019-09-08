@@ -10,4 +10,6 @@ end
  end
 end
 
-def long_planeteer_calls
+def long_planeteer_calls(long_planteer_calls)
+  answer = false 
+  long_planteer_calls.each do |call|
