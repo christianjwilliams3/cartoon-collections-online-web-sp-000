@@ -4,4 +4,5 @@ puts "#{index + 1} #{name}"
 end
 end
   
- def summon_captain_planet 
+ def summon_captain_planet(elemtents)
+   
